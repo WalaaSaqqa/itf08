@@ -1,0 +1,7 @@
+name = input("Enter your Full name : ")
+phone = input("Enter your phone number as format 05x-xxxx-xxx : ")
+year_of_birth = input("Enter your year of birth : ")
+current_year = input("Enter current year : ")
+user_age = int(current_year) - int(year_of_birth)
+print("Welcome", name, "Your age is", user_age, "and your phone number is", phone)
+print(phone.split("-"))
