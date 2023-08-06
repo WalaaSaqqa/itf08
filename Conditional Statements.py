@@ -22,11 +22,11 @@ def rectangle(length , width):
 e = int(input("Enter the edge : "))
 h = int(input("Enter the height : "))
 b = int(input("Enter the base : "))
-triangle(2 , 10)
+triangle(b , h)
 
 r = float(input("Enter the raduis : "))
-circle(2)
+circle(r)
 
 w = int(input("Enter the wight : "))
 h = int(input("Enter the height : "))
-rectangle(4 , 2)
+rectangle(w , h)
