@@ -1,0 +1,13 @@
+student number: 1010
+student name: Sama
+student age: 28
+student number: 2020
+student name: Loulo
+student age: 33
+student number: 3030
+student name: fofo
+student age: 20
+course name: Java
+course mark: 98
+course name: C
+course mark: 97
